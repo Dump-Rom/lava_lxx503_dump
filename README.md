@@ -1,0 +1,19 @@
+## LXX503-user 12 SP1A.210812.016 1669458002 release-keys
+- Manufacturer: lava
+- Platform: mt6833
+- Codename: LXX503
+- Brand: LAVA
+- Flavor: sys_mssi_64_ww_armv82-user
+- Release Version: 12
+- Kernel Version: 4.19.191
+- Id: SP1A.210812.016
+- Incremental: 1669458002
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-IN
+- Screen Density: undefined
+- Fingerprint: LAVA/LXX503/LXX503:12/SP1A.210812.016/1669458002:user/release-keys
+- OTA version: 
+- Branch: LXX503-user-12-SP1A.210812.016-1669458002-release-keys
+- Repo: lava_lxx503_dump

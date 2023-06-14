@@ -1,0 +1,10 @@
+persist.odm.pri_ram_expansion_on=3
+ro.com.android.mobiledata=true
+ro.com.google.acsa=true
+ro.com.google.clientidbase=android-lava
+ro.com.google.gmsversion=12_202210
+ro.opa.eligible_device=true
+ro.product.ab_ota_partitions=boot,system,vendor
+ro.setupwizard.rotation_locked=true
+setupwizard.theme=glif_v3_light
+vendor.audiohal.telephonytx.type=2
