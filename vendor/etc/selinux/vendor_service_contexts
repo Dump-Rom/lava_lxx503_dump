@@ -1,0 +1,12 @@
+#line 1 "device/mediatek/sepolicy/bsp/non_plat/service_contexts"
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+android.hardware.neuralnetworks.IDevice/mtk-gpu_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-dsp_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-mdla_shim   u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-neuron_shim u:object_r:hal_neuralnetworks_service:s0
+#line 1 "hardware/BstFaceHal/BioInterface/sepolicy/common/service_contexts"
+com.bst.android.face.IFaceDaemon	u:object_r:face_daemon_service:s0
+bst.face	u:object_r:bst_face_service:s0
